@@ -2,6 +2,7 @@
 <h3 align="center">A passionate infrastructure solution specialist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanif-suhail&label=Profile%20views&color=0e75b6&style=flat" alt="hanif-suhail" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/Hanif-suhail/Hanif-suhail/blob/main/Profile.gif">
 
 - 🌱 I’m currently learning **Devops tools**
 
